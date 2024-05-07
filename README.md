@@ -62,7 +62,7 @@ colcon build
     │       ├── ros_pkg_aplication                      # Nodes to ROS2
     │       └── ros_pkg_bringup                         # Gz bridge configuration files and ROS2 launch files 
     
-# Instruction to run the simulator (Añadir Diana)
+# Instruction to run the simulator
 
 The AUV AIAPAEC Simulator has two parts, the first, named PyAUVsimulator, is the synthesis to control LQY/LTR where its consider the non-linear model, the linearized model and the controller developed. The second, named GZ_Simulator, is the configuration to AUV in Gazebo Harmonic and Ros2 Iron, where its consider the AUV hydrodinamic and his probe the LQY/LTR MIMO control in an 3D environment.
 
@@ -118,5 +118,9 @@ This project is licenced by GPL-3 license
 
 Thanks to the National University of San Agustin of Arequipa and its Complex Process Control and Unmanned Vehicles Laboratory.
 
-
-
+# Contacts
+- Juan Cutipa Luque jcutipalu@unsa.edu.pe
+- Diana Huallpa Apaza dhuallpapa@unsa.edu.pe
+- Maria Huamani Chuma mhuamanichum@unsa.edu.pe
+- Kevin Luque Gutierrez kluquegu@unsa.edu.pe
+- Daniel Yanyachi Aco Cardenas dyanyanchi@unsa.edu.pe
