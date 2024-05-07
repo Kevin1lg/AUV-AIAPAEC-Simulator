@@ -117,7 +117,7 @@ This project is licenced by GPL-3 license
 
 # Thanks
 
-Thanks to the Universidad Nacional de Arequipa and its Complex Process Control and Unmanned Vehicles Laboratory.
+Thanks to the Universidad Nacional de San Agustín de Arequipa and its Complex Process Control and Unmanned Vehicles Laboratory.
 
 # Contacts
 - Diana Huallpa Apaza dhuallpapa@unsa.edu.pe
