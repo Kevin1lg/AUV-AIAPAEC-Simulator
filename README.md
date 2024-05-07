@@ -1,5 +1,6 @@
 # Autonomous Underwater Vehicle (AUV) AIAPAEC Simulator
-![AIAPAEC AUV](GZ_Simulator/images/aiapaec.jpg)
+![AIAPAEC AUV](GZ_Simulator/images/gz_environment.jpg)
+
 The AUV AIAPAEC Simulator is a complete simulator in an environment to 3D of an overactuated AUV, named AIAPAEC, running in Python, Gazebo Harmonic and ROS2 Iron. The simulator is implemented with LQY/LTR MIMO control.
 
 # Requirements
