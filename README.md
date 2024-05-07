@@ -117,11 +117,12 @@ This project is licenced by GPL-3 license
 
 # Thanks
 
-Thanks to the National University of San Agustin of Arequipa and its Complex Process Control and Unmanned Vehicles Laboratory.
+Thanks to the Universidad Nacional de Arequipa and its Complex Process Control and Unmanned Vehicles Laboratory.
 
 # Contacts
-- Juan Cutipa Luque jcutipalu@unsa.edu.pe
 - Diana Huallpa Apaza dhuallpapa@unsa.edu.pe
 - Maria Huamani Chuma mhuamanichum@unsa.edu.pe
 - Kevin Luque Gutierrez kluquegu@unsa.edu.pe
 - Daniel Yanyachi Aco Cardenas dyanyanchi@unsa.edu.pe
+- Juan Cutipa Luque jcutipalu@unsa.edu.pe
+
