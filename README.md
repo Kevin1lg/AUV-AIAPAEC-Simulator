@@ -93,7 +93,7 @@ The GZ_Simulator offers the open loop and closed loop operation modes. To demons
 
 * Suggestions: This updated package enables three types of sensors plugins: IMU, DVL and odometry. The IMU provides angular positions and rates relative to the inertial frame, the DVL provides velocities relative to body frame and the odometry provides both features. To reduce computational effort, the user may select the odometry. 
 
-To run the simulator using the following commands:
+To run the GZ_Simulator using the following commands:
 
 ~~~bash
 cd /AUV-AIAPAEC-Simulator/GZ_Simulator/
