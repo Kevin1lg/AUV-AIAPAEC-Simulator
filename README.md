@@ -32,13 +32,13 @@ To download and install the AUV AIÁPAEC Simulator follow the instructions.
 1. Cloning the archives to GitHub
 
 ~~~bash
-git clone <enlace de github conjunto>
+git clone https://github.com/Kevin1lg/AUV-AIAPAEC-Simulator.git
 ~~~
 
 2. Compile and build files to Gazebo and Ros2 Simulator
 
 ~~~bash
-cd AUV-AIAPAEC/ws
+cd AUV-AIAPAEC-Simulator/GZ_Simulator
 colcon build
 ~~~
 
@@ -69,7 +69,7 @@ The PyAUVsimulator encompasses modes for operating the nonlinear, linearized, an
 
 To run PyAUVsimulator use the following commands:
 ~~~bash
-cd AUV-AIAPAEC/PyAUVsimulator
+cd AUV-AIAPAEC-Simulator/PyAUVsimulator
 python main.py
 ls
 ~~~
@@ -94,7 +94,7 @@ The GZ_Simulator offers the open loop and closed loop operation modes. To demons
 To run the simulator using the following commands:
 
 ~~~bash
-cd ws
+cd /AUV-AIAPAEC-Simulator/GZ_Simulator/
 export GZ_SIM_RESOURCE_PATH=~/AUV-AIAPAEC-Simulator/GZ_Simulator/src/aiapaec_models/models:~/AUV-AIAPAEC-Simulator/GZ_Simulator/ws/src/aiapaec_models/worlds
 source install/setup.bash
 ros2 launch ros_pkg_bringup aiapaec.launch.py
