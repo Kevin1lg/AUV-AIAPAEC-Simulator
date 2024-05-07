@@ -51,7 +51,7 @@ colcon build
     │   ├── non_linear_model_image_outputs              # File save results
     │   ├── real_state_space_and_discretized_control    # File save results
     │   ├── main.py  
-    ├── GZ_Simulator                                    # Files to Simulation in Gazebo and Ros
+    ├── GZ_Simulator                                   
     │   ├── build                                       # File compilated
     │   ├── install                                     # File compilated
     │   ├── log                                         # File compilated
