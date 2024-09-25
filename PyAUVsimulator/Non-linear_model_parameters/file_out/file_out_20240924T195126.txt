@@ -1,0 +1,47 @@
+Parameter 	 & Value 	 & Unit 	 & Description\\ 
+\hline 
+$X_{uu}     $ 	 & $-1.479637e+00$ 	 & $kg/m       $ 	 & Cross-flow drag \\ 
+$X_{\dot{u}}$ 	 & $-7.830329e-01$ 	 & $kg         $ 	 & Added mass \\ 
+$X_{wq}     $ 	 & $-5.062522e+01$ 	 & $kg/rad     $ 	 & Added mass cross-term \\ 
+$X_{qq}     $ 	 & $-8.205245e+00$ 	 & $kg m/rad   $ 	 & Added mass cross-term \\ 
+$X_{vr}     $ 	 & $+5.062522e+01$ 	 & $kg/rad     $ 	 & Added mass cross-term \\ 
+$X_{rr}     $ 	 & $-8.205245e+00$ 	 & $kg m/rad   $ 	 & Added mass cross-term \\ 
+$Y_{vv}     $ 	 & $-1.258586e+02$ 	 & $kg/m       $ 	 & Cross-flow drag \\ 
+$Y_{rr}     $ 	 & $-9.494956e-01$ 	 & $kg m/rad^2 $ 	 & Cross-flow drag \\ 
+$Y_{uv}     $ 	 & $-2.998950e+01$ 	 & $kg/m       $ 	 & Body lift force and fin lift \\ 
+$Y_{\dot{v}}$ 	 & $-5.062522e+01$ 	 & $kg         $ 	 & Added mass \\ 
+$Y_{\dot{r}}$ 	 & $+8.205245e+00$ 	 & $kg m/rad   $ 	 & Added mass \\ 
+$Y_{ur}   $ 	 & $+2.943628e+00$ 	 & $kg/rad     $ 	 & Added mass cross-term and fin lift \\ 
+$Y_{wp}   $ 	 & $+5.062522e+01$ 	 & $kg/rad     $ 	 & Added mass cross-term \\ 
+$Y_{pq}   $ 	 & $+8.205245e+00$ 	 & $kg m/rad   $ 	 & Added mass cross-term \\ 
+$Y_{uu\delta_r}$ 	 & $+1.007206e+01$ 	 & $kg/(m rad) $ 	 & Fin lift force \\ 
+$Z_{ww}   $ 	 & $-1.258586e+02$ 	 & $kg/m       $ 	 & Cross-flow drag \\ 
+$Z_{qq}   $ 	 & $+9.494956e-01$ 	 & $kg m /rad^2$ 	 & Cross-flow drag \\ 
+$Z_{uw}   $ 	 & $-2.998950e+01$ 	 & $kg/m       $ 	 & Body lift force and fin lift \\ 
+$Z_{\dot{w}}$ 	 & $-5.062522e+01$ 	 & $kg         $ 	 & Added mass \\ 
+$Z_{\dot{q}}$ 	 & $-8.205245e+00$ 	 & $kg m/rad   $ 	 & Added mass \\ 
+$Z_{uq}   $ 	 & $-2.943628e+00$ 	 & $kg/rad     $ 	 & Added mass cross-term and fin lift \\ 
+$Z_{vp}   $ 	 & $-5.062522e+01$ 	 & $kg/rad     $ 	 & Added mass cross-term \\ 
+$Z_{rp}   $ 	 & $+8.205245e+00$ 	 & $kg/rad     $ 	 & Added mass cross-term \\ 
+$Z_{uu\delta_s}$ 	 & $-1.007206e+01$ 	 & $kg/(m rad)  $ 	 & Fin lift force \\ 
+$K_{pp}   $ 	 & $+0.000000e+00$ 	 & $kg m^2/rad^2$ 	 & Rolling resistance \\ 
+$K_{\dot{p}}$ 	 & $-3.913712e-01$ 	 & $kg m^2/rad  $ 	 & Added mass \\ 
+$M_{ww}   $ 	 & $+5.378042e-01$ 	 & $kg         $ 	 & Cross-flow drag \\ 
+$M_{qq}   $ 	 & $-6.347858e+00$ 	 & $kg m^2/rad^2$ 	 & Cross-flow drag \\ 
+$M_{uw}   $ 	 & $+4.163410e+01$ 	 & $kg         $ 	 & Body and fin lift and munk moment \\ 
+$M_{\dot{w}}$ 	 & $-8.205245e+00$ 	 & $kg m       $ 	 & Added mass \\ 
+$M_{\dot{q}}$ 	 & $-6.885066e+00$ 	 & $kg m^2/rad $ 	 & Added mass \\ 
+$M_{uq}   $ 	 & $+6.826380e+00$ 	 & $kg m/rad   $ 	 & Added mass cross-term and fin lift \\ 
+$M_{vp}   $ 	 & $-8.205245e+00$ 	 & $kg m/rad   $ 	 & Added mass cross-term \\ 
+$M_{rp}   $ 	 & $+6.493695e+00$ 	 & $kg m^2/rad^2$ 	 & Added mass cross-term \\ 
+$M_{uu\delta_s}$ 	 & $-3.726661e+00$ 	 & $kg/rad     $ 	 & Fin lift moment \\ 
+$N_{vv}   $ 	 & $-5.378042e-01$ 	 & $kg         $ 	 & Cross-flow drag \\ 
+$N_{rr}   $ 	 & $-6.347858e+00$ 	 & $kg m^2/rad^2$ 	 & Cross-flow drag \\ 
+$N_{uv}   $ 	 & $-4.163410e+01$ 	 & $kg         $ 	 & Body and fin lift and munk moment \\ 
+$N_{\dot{v}}$ 	 & $+8.205245e+00$ 	 & $kg m       $ 	 & Added mass \\ 
+$N_{\dot{r}}$ 	 & $-6.885066e+00$ 	 & $kg m^2/rad $ 	 & Added mass \\ 
+$N_{ur}   $ 	 & $+6.826380e+00$ 	 & $kg m/rad   $ 	 & Added mass cross-term and fin lift \\ 
+$N_{wp}   $ 	 & $-8.205245e+00$ 	 & $kg m/rad   $ 	 & Added mass cross-term \\ 
+$N_{pq}   $ 	 & $-6.493695e+00$ 	 & $kg m^2/rad^2$ 	 & Added mass cross-term \\ 
+$N_{uu\delta_r}$ 	 & $-3.726661e+00$ 	 & $kg/rad     $ 	 & Fin lift moment \\ 
+\hline
