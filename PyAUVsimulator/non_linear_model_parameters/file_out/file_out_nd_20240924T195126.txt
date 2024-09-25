@@ -1,0 +1,47 @@
+Parameter 	 & Value 	 & Unit 	 & Description\\ 
+\hline 
+$X'_{uu}     $ 	 & $-1.838772e-03$ 	 & ------ 	 & Cross-flow drag \\ 
+$X'_{\dot{u}}$ 	 & $-7.784716e-04$ 	 & ------ 	 & Added mass \\ 
+$X'_{wq}     $ 	 & $-5.033032e-02$ 	 & ------ 	 & Added mass cross-term \\ 
+$X'_{qq}     $ 	 & $-6.525958e-03$ 	 & ------ 	 & Added mass cross-term \\ 
+$X'_{vr}     $ 	 & $+5.033032e-02$ 	 & ------ 	 & Added mass cross-term \\ 
+$X'_{rr}     $ 	 & $-6.525958e-03$ 	 & ------ 	 & Added mass cross-term \\ 
+$Y'_{vv}     $ 	 & $-1.564069e-01$ 	 & ------ 	 & Cross-flow drag \\ 
+$Y'_{rr}     $ 	 & $-7.551717e-04$ 	 & ------ 	 & Cross-flow drag \\ 
+$Y'_{uv}     $ 	 & $-3.726851e-02$ 	 & ------ 	 & Body lift force and fin lift \\ 
+$Y'_{\dot{v}}$ 	 & $-5.033032e-02$ 	 & ------ 	 & Added mass \\ 
+$Y'_{\dot{r}}$ 	 & $+6.525958e-03$ 	 & ------ 	 & Added mass \\ 
+$Y'_{ur}   $ 	 & $+2.926481e-03$ 	 & ------ 	 & Added mass cross-term and fin lift \\ 
+$Y'_{wp}   $ 	 & $+5.033032e-02$ 	 & ------ 	 & Added mass cross-term \\ 
+$Y'_{pq}   $ 	 & $+6.525958e-03$ 	 & ------ 	 & Added mass cross-term \\ 
+$Y'_{uu\delta_r}$ 	 & $+1.251673e-02$ 	 & ------ 	 & Fin lift force \\ 
+$Z'_{ww}   $ 	 & $-1.564069e-01$ 	 & ------ 	 & Cross-flow drag \\ 
+$Z'_{qq}   $ 	 & $+7.551717e-04$ 	 & ------ 	 & Cross-flow drag \\ 
+$Z'_{uw}   $ 	 & $-3.726851e-02$ 	 & ------ 	 & Body lift force and fin lift \\ 
+$Z'_{\dot{w}}$ 	 & $-6.291290e-02$ 	 & ------ 	 & Added mass \\ 
+$Z'_{\dot{q}}$ 	 & $-6.525958e-03$ 	 & ------ 	 & Added mass \\ 
+$Z'_{uq}   $ 	 & $-2.926481e-03$ 	 & ------ 	 & Added mass cross-term and fin lift \\ 
+$Z'_{vp}   $ 	 & $-5.033032e-02$ 	 & ------ 	 & Added mass cross-term \\ 
+$Z'_{rp}   $ 	 & $+6.525958e-03$ 	 & ------ 	 & Added mass cross-term \\ 
+$Z'_{uu\delta_s}$ 	 & $-1.251673e-02$ 	 & ------ 	 & Fin lift force \\ 
+$K'_{pp}   $ 	 & $+0.000000e+00$ 	 & ------ 	 & Rolling resistance \\ 
+$K'_{\dot{p}}$ 	 & $-2.490185e-04$ 	 & ------ 	 & Added mass \\ 
+$M'_{ww}   $ 	 & $+5.346714e-04$ 	 & ------ 	 & Cross-flow drag \\ 
+$M'_{qq}   $ 	 & $-4.038963e-03$ 	 & ------ 	 & Cross-flow drag \\ 
+$M'_{uw}   $ 	 & $+4.139158e-02$ 	 & ------ 	 & Body and fin lift and munk moment \\ 
+$M'_{\dot{w}}$ 	 & $-6.525958e-03$ 	 & ------ 	 & Added mass \\ 
+$M'_{\dot{q}}$ 	 & $-4.380774e-03$ 	 & ------ 	 & Added mass \\ 
+$M'_{uq}   $ 	 & $+5.429292e-03$ 	 & ------ 	 & Added mass cross-term and fin lift \\ 
+$M'_{vp}   $ 	 & $-6.525958e-03$ 	 & ------ 	 & Added mass cross-term \\ 
+$M'_{rp}   $ 	 & $+4.131755e-03$ 	 & ------ 	 & Added mass cross-term \\ 
+$M'_{uu\delta_s}$ 	 & $-3.704952e-03$ 	 & ------ 	 & Fin lift moment \\ 
+$N'_{vv}   $ 	 & $-5.346714e-04$ 	 & ------ 	 & Cross-flow drag \\ 
+$N'_{rr}   $ 	 & $-4.038963e-03$ 	 & ------ 	 & Cross-flow drag \\ 
+$N'_{uv}   $ 	 & $-4.139158e-02$ 	 & ------ 	 & Body and fin lift and munk moment \\ 
+$N'_{\dot{v}}$ 	 & $+6.525958e-03$ 	 & ------ 	 & Added mass \\ 
+$N'_{\dot{r}}$ 	 & $-4.380774e-03$ 	 & ------ 	 & Added mass \\ 
+$N'_{ur}   $ 	 & $+5.429292e-03$ 	 & ------ 	 & Added mass cross-term and fin lift \\ 
+$N'_{wp}   $ 	 & $-6.525958e-03$ 	 & ------ 	 & Added mass cross-term \\ 
+$N'_{pq}   $ 	 & $-4.131755e-03$ 	 & ------ 	 & Added mass cross-term \\ 
+$N'_{uu\delta_r}$ 	 & $-3.704952e-03$ 	 & ------ 	 & Fin lift moment \\ 
+\hline
